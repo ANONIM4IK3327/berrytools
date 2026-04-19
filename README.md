@@ -15,7 +15,7 @@
 
 ---
 
-### 2. [Background Remover](https://anonim4ik3327.github.io/berrytools/background-remover.html) 🆕
+### 2. [Background Remover](https://anonim4ik3327.github.io/berrytools/background-remover.html) 
 Инструмент для удаления фона с изображений. Поддерживает как хромакей, так и автоматическое обнаружение однотонного фона.
 
 **Возможности:**
@@ -43,7 +43,7 @@
 
 ---
 
-### 3. [SegImg — Сегментация изображений](https://anonim4ik3327.github.io/berrytools/segimg.html)
+### 3. [SegImg — Сегментация изображений](https://anonim4ik3327.github.io/berrytools/segimg.html)🆕
 Инструмент для автоматической и ручной сегментации объектов на изображении. Подходит для выделения объектов, создания масок и подготовки изображений для дальнейшей обработки.
 
 **Возможности:**
